@@ -2,10 +2,10 @@
 #By lnwsus
 echo -e "\033[1;32m
 ====================================================
- credit   : Dev By lnwsus
- Facebook : คือไรงง งงทำควยไร
- Line     : Line bankzatakam
- Step Auto Scrip By Tepsus
+ credit   : Dev By GM-CHOKE
+ Facebook : nipon kaewtes
+ Line     : nipon24082535
+ Step Auto Scrip By GM-CHOKE
 ===================================================="
 echo -e "\033[1;36m" 
 echo "---------------------------------------------"
